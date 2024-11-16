@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.993fe9cc.css",
-    "main.js": "/static/js/main.85ecf80a.js",
-    "static/media/placeholder.png": "/static/media/placeholder.14660c2b8f4312db31b3.png",
+    "main.css": "/static/css/main.2c72ef35.css",
+    "main.js": "/static/js/main.391cd4c0.js",
+    "static/media/leafsbackground.jpg": "/static/media/leafsbackground.5378c3ed44b6d5d9eb66.jpg",
+    "static/media/iNat_Treehouse.jpg": "/static/media/iNat_Treehouse.a5969a1a79ba2e49602f.jpg",
+    "static/media/Noahs_iNat_game_with_text.png": "/static/media/Noahs_iNat_game_with_text.f86cca1e5c14d0df344e.png",
     "index.html": "/index.html",
-    "main.993fe9cc.css.map": "/static/css/main.993fe9cc.css.map",
-    "main.85ecf80a.js.map": "/static/js/main.85ecf80a.js.map"
+    "main.2c72ef35.css.map": "/static/css/main.2c72ef35.css.map",
+    "main.391cd4c0.js.map": "/static/js/main.391cd4c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.993fe9cc.css",
-    "static/js/main.85ecf80a.js"
+    "static/css/main.2c72ef35.css",
+    "static/js/main.391cd4c0.js"
   ]
 }
